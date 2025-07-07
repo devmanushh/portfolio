@@ -1,0 +1,29 @@
+.about {
+  padding: 4rem 2rem;
+  background: #23272f;
+}
+.about h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+.about p {
+  max-width: 540px;
+  margin: 0 auto 2rem auto;
+  font-size: 1.08rem;
+}
+.about-timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.about-timeline div {
+  border-left: 3px solid #61dafb;
+  padding-left: 1rem;
+}
+.about-timeline h4 {
+  margin: 0;
+  color: #61dafb;
+}
