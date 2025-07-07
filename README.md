@@ -1,1 +1,1 @@
-deployment link: https://vercel.com/soumyaranjan-das-projects/devmanushh_portfolio
+deployment link: https://devmanushhportfolio.vercel.app/
